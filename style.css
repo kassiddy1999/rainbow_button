@@ -37,7 +37,7 @@ a:hover{
     100%{
         background-position: 400%;
     }}
-
+/*  this is a comment section*/
     a::before{
         content: "";
         position: absolute;
